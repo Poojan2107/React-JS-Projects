@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "d060",
+      "category": "Cloth",
+      "p_name": "Shirt",
+      "p_price": "2000",
+      "p_url": "https://www.21kschool.com/in/wp-content/uploads/sites/4/2023/11/15-Facts-About-Coding-Every-Kid-Should-Know.png",
+      "p_desc": "shirt desc"
+    }
+  ]
+}
