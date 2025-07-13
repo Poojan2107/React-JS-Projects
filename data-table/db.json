@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "f5b2",
+      "category": "Cloth",
+      "p_name": "T-Shirt",
+      "p_price": "500",
+      "p_url": "T Shirt ",
+      "p_desc": "This is a redT-shirt."
+    },
+    {
+      "id": "d7d7",
+      "category": "Electronics",
+      "p_name": "Laptop",
+      "p_price": "150000",
+      "p_url": "Laptop",
+      "p_desc": "This is a Macbook."
+    }
+  ]
+}
