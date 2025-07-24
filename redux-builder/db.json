@@ -2,18 +2,11 @@
   "users": [],
   "products": [
     {
-      "id": "d644",
-      "name": "T-Shirt",
-      "category": "Clothing",
-      "price": 500,
-      "remarks": "Red T-shirt."
-    },
-    {
-      "id": "7724",
-      "name": "Charger",
-      "category": "Accessories",
-      "price": 250,
-      "remarks": "Fast Charger"
+      "id": "544c",
+      "name": "Laptop",
+      "category": "Tech",
+      "price": 150000,
+      "remarks": "Mac"
     }
   ]
 }

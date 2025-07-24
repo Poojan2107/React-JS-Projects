@@ -1,0 +1,44 @@
+.view-card {
+  background: #f7fafc;
+  max-width: 700px;
+  margin: 60px auto 0 auto;
+  padding: 2.5rem 2rem;
+  border-radius: 24px;
+  box-shadow: 0 8px 32px 0 rgba(42, 82, 152, 0.13);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.view-card h2 {
+  color: #1e3c72;
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.product-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px 0 rgba(42, 82, 152, 0.08);
+}
+
+.product-table th, .product-table td {
+  padding: 0.9rem 1.2rem;
+  text-align: left;
+  border-bottom: 1px solid #e3ecfa;
+  color: #1e3c72;
+}
+
+.product-table th {
+  background: #e3ecfa;
+  font-weight: 700;
+}
+
+.product-table tr:last-child td {
+  border-bottom: none;
+}

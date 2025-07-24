@@ -1,0 +1,79 @@
+
+
+.form-card {
+  background: #fff;
+  width: 100%;
+  max-width: 430px;
+  margin: 110px auto 0 auto;
+  padding: 2.5rem 2rem 2rem 2rem;
+  border-radius: 32px;
+  box-shadow: 0 8px 32px 0 rgba(42, 82, 152, 0.13);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.2rem;
+  box-sizing: border-box;
+}
+
+.form-card h2 {
+  color: #1e3c72;
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.product-form {
+  width: 100%;
+  max-width: 370px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  align-items: center;
+}
+
+.product-form input,
+.product-form select,
+.product-form textarea {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 1.05rem 1.2rem;
+  border: 1.5px solid #c3d0e8;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  background: #f4f8fd;
+  outline: none;
+  transition: border 0.2s, box-shadow 0.2s;
+  color: #1e3c72;
+  margin-bottom: 0.1rem;
+}
+
+.product-form input:focus,
+.product-form select:focus,
+.product-form textarea:focus {
+  border: 2px solid #2a5298;
+  box-shadow: 0 0 0 2px #b3c6e6;
+}
+
+
+.product-form button {
+  background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%);
+  color: #fff;
+  font-size: 1.18rem;
+  font-weight: 700;
+  border: none;
+  border-radius: 12px;
+  padding: 1.1rem 0;
+  margin-top: 0.7rem;
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px 0 rgba(42, 82, 152, 0.10);
+}
+
+.product-form button:hover {
+  background: linear-gradient(90deg, #2a5298 0%, #1e3c72 100%);
+  box-shadow: 0 4px 16px 0 rgba(42, 82, 152, 0.13);
+}

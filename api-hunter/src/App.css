@@ -1,0 +1,9 @@
+
+
+.app-bg {
+  min-height: 100vh;
+  width: 100vw;
+  background: linear-gradient(120deg, #e3ecfa 0%, #d1e2f6 100%);
+  display: flex;
+  flex-direction: column;
+}
