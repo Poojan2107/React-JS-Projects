@@ -1,0 +1,19 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": "d644",
+      "name": "T-Shirt",
+      "category": "Clothing",
+      "price": 500,
+      "remarks": "Red T-shirt."
+    },
+    {
+      "id": "7724",
+      "name": "Charger",
+      "category": "Accessories",
+      "price": 250,
+      "remarks": "Fast Charger"
+    }
+  ]
+}
